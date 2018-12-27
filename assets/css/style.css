@@ -1,0 +1,29 @@
+#container {
+    width: 100%;
+    margin: auto;
+}
+
+header {
+    padding: 20px;
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+}
+
+#results {
+    padding: 10px;
+    background-color: beige;
+    text-align: center;
+}
+
+#timer {
+    padding: 10px;
+    background-color: beige;
+    text-align: center;
+}
+
+#quiz {
+    padding: 10px;
+    background-color: beige;
+}
+
